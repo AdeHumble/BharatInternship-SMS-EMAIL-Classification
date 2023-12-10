@@ -1,4 +1,7 @@
 # Bharat Virtual Internship - SMS/Email Spam Classifier
+<div align="center">
+  <img src="https://www.bing.com/images/blob?bcid=qCXYq0WANWkGZw" alt="Project Logo" width="300">
+</div>
 
 ## Project Overview
 
