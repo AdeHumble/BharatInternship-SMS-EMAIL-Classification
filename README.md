@@ -79,5 +79,7 @@ Note: Ensure that you have the necessary Python dependencies installed using the
 To run the Streamlit app, execute the provided Python script:
 
 ```bash
-streamlit run app.py
+streamlit run https://github.com/AdeHumble/Bharat-Internship-Project2
+/blob/main/app.py
+
 
