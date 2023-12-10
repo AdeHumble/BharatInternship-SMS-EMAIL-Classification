@@ -50,6 +50,30 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 - Compare evaluation metrics among models.
 - Serialize the selected model for future use.
 
+### 6. Model Deployment
+
+...
+
+## Running the PyCharm Code
+
+For users who prefer working with PyCharm, the project includes Python scripts developed using the PyCharm IDE. Follow the steps below to run the code:
+
+1. Open the PyCharm IDE.
+2. Load the project into PyCharm.
+3. Navigate to the Python script (`your_pycharm_script.py`) that contains the main code.
+4. Execute the script to run the SMS/Email Spam Classifier.
+
+Note: Ensure that you have the necessary Python dependencies installed using the provided `requirements.txt` file.
+
+## Directory Structure
+
+- `/data`: Contains the dataset used for training the model.
+- `/notebooks`: Jupyter notebooks for data exploration and model development.
+- `/scripts`: Python scripts for the final implementation of the SMS/Email Spam Classifier.
+- `/streamlit`: Streamlit web application code.
+- `/images`: Image files used in the README or other documentation.
+
+
 ## Running the Streamlit App
 
 To run the Streamlit app, execute the provided Python script:
