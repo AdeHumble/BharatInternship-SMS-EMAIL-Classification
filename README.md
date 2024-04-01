@@ -1,6 +1,6 @@
 # Bharat Virtual Internship - SMS/Email Spam Classifier
 <div align="center">
-  <img src="images/sms%20intro.JPG">
+  <img src="images/sms%20intro.jpg">
 </div>
 
 ## Project Overview
@@ -79,7 +79,7 @@ Note: Ensure that you have the necessary Python dependencies installed using the
 
 ## Running the Streamlit App
 
-Have a glimpse of the app demonstration [here](https://drive.google.com/file/d/1_b3LpPV-UdF9bIsqmoxNnVEfY-ZDnSqq/view?usp=sharing)
+Have a glimpse of the app demonstration [here](https://drive.google.com/file/d/1GPO5VdgrFxsbeafLBxamEqxtupYX_Scu/view?usp=drive_link)
 
 ```
 bash
