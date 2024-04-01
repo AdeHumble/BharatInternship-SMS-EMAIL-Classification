@@ -1,6 +1,6 @@
 # Bharat Virtual Internship - SMS/Email Spam Classifier
 <div align="center">
-  <img src="https://www.bing.com/images/blob?bcid=qCXYq0WANWkGZw" alt="Project Logo" width="300">
+  <img src="images/sms%20intro.JPG">
 </div>
 
 ## Project Overview
@@ -79,10 +79,12 @@ Note: Ensure that you have the necessary Python dependencies installed using the
 
 ## Running the Streamlit App
 
-To run the Streamlit app, execute the provided Python script:
+Have a glimpse of the app demonstration [here](https://drive.google.com/file/d/1_b3LpPV-UdF9bIsqmoxNnVEfY-ZDnSqq/view?usp=sharing)
 
-```bash
+```
+bash
 streamlit run https://github.com/AdeHumble/Bharat-Internship-Project2
 /blob/main/app.py
+```
 
 
